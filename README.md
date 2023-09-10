@@ -57,5 +57,5 @@ Key insights from this analysis include:
 
 Stay tuned for our detailed analysis and interactive visualizations!
 
-## Tablbeau link:
+## Tableau link:
 https://public.tableau.com/app/profile/madhuroopa.irukulla3330/viz/VA_Inplementation_Energy_Consumption/Dashboard
