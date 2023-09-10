@@ -36,6 +36,16 @@ The design approach for this project follows data visualization principles of si
 - Python 3 (IDE: Google Colab) for data merging.
 - Tableau for exploratory data analysis.
 - Excel for 3D world maps.
+## Dashboard
+<img width="960" alt="image" src="https://github.com/madhuroopa/Energy_Consumption_COVID19_Impacts/assets/22576343/829378ad-9688-4f55-ba7a-6dbfb38c149c">
+
+<img width="502" alt="image" src="https://github.com/madhuroopa/Energy_Consumption_COVID19_Impacts/assets/22576343/140a8fc5-0f8e-4e46-908d-1a278fa8b754">
+
+<img width="359" alt="image" src="https://github.com/madhuroopa/Energy_Consumption_COVID19_Impacts/assets/22576343/d3902f1e-f32a-4e5b-9b07-4a05aa74d49b">
+
+
+
+
 
 ## Insights
 
